@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\course8\ATMsystem\ConsoleApplication1\ConsoleApplication1.cpp(35,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\course8\ATMsystem\ConsoleApplication1\ConsoleApplication1.cpp(191,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+D:\course8\ATMsystem\ConsoleApplication1\ConsoleApplication1.cpp(291,1): warning C4715: 'QuickWithdrawAmount': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\course8\ATMsystem\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
